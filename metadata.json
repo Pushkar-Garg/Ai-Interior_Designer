@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Interior AI",
+  "description": "Professional AI-powered interior design platform using Gemini to transform your living spaces.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
